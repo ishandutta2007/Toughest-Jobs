@@ -5,11 +5,21 @@ Here is the formatted markdown table:
 
 | Category / Sector | Target Role | Estimated Selections / Vacancies per Year in India |
 |---|---|---|
-| FAANG (Meta, Amazon, Apple, Netflix, Google, Microsoft) | Entry-Level Tech Roles (Software Engineer / New Grad) | ~3,000 – 6,000 total across all firms |
-| MBB (McKinsey, BCG, Bain) | Entry-Level MBA Role (Associate / Consultant) | ~300 – 600 total across Tier-1 campuses (ISB, IIMs, etc.) |
+| FAANG (Meta, Amazon, Apple, Netflix, Google, Microsoft) | Entry-Level Tech Roles (SDE-1 / Software Engineering New Grad) | ~800 – 1,500 total | Highly selective. Includes IITs, NITs, and top tier-2 college campus visits + official university graduate hiring portals. |
+| MBB (McKinsey, BCG, Bain) | Entry-Level MBA Role (Associate / Consultant) | ~300 – 600 total | Strictly campus-driven. Almost exclusively recruited from elite institutions like IIM A/B/C and ISB. |
 | UPSC (Civil Services Exam) | IAS, IPS, IFS, IRS, and allied services | ~900 – 1,100 total vacancies per year |
 | PCS (Provincial Civil Services) | State Administrative & Police Services | ~1,500 – 4,000 total combined across all major Indian states |
 | Bank PO (Public Sector Banks) | Probationary Officers (IBPS PO + SBI PO) | ~7,000 – 9,500 combined per year |
+
+To refine this further for your research, let me know:
+
+* 
+* For FAANG, would you like to see the estimated breakdown by specific tier of college (e.g., IITs vs. Tier-2/3)?
+* For the Govt/Civil Services (UPSC/PCS/Bank PO), do you want to look into the average age or background of the freshers who clear these open exams right out of college?
+* 
+
+
+[1] [https://www.pw.live](https://www.pw.live/banking/exams/ibps-po-last-five-year-vacancy)
 
 Would you like to narrow this data down further? Let me know if you want to explore:
 
