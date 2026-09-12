@@ -1,7 +1,7 @@
 # Toughest-Jobs
 
 
-Here is the formatted markdown table:
+## 🇮🇳 Toughest Entry-Level Jobs in India
 
 | Category / Sector | Target Role | Estimated Selections / Vacancies per Year in India | Acceptance Rate (Approx.) | Annual Salary (Approx.) |
 |---|---|---|---|---|
@@ -20,3 +20,25 @@ Here is the formatted markdown table:
 | Elite Corporate Leadership Programs (TAS, Aditya Birla Group, Mahindra, RPG) | Management Trainee (Entry-Level Leadership Track) | ~100 – 200 (combined) | ~0.1 – 0.3% (~50,000+ applicants combined) | ₹18 – 30 LPA |
 | Indian Airlines (Air India, IndiGo, Vistara, SpiceJet) | Entry-Level Commercial Pilot (First Officer) | ~200 – 400 | ~2 – 5% (of CPL holders who apply) | ₹15 – 25 LPA (increases steeply with seniority) |
 
+---
+
+## 🇺🇸 Toughest Entry-Level Jobs in the USA
+
+| Category / Sector | Target Role | Estimated Selections / Vacancies per Year in USA | Acceptance Rate (Approx.) | Annual Salary (Approx.) |
+|---|---|---|---|---|
+| NASA Astronaut Corps | Astronaut Candidate | ~10 – 15 (every 2–4 years) | ~0.04 – 0.07% (~18,000 applicants per cycle) | $105K – $130K |
+| Quant Trading Firms (Jane Street, Citadel Securities, Two Sigma, HRT, Jump Trading, DE Shaw) | Entry-Level Quant Trader / Researcher | ~500 – 1,000 (total) | ~0.5 – 1% | $200K – $450K+ TC (base + bonus) |
+| Elite AI Labs (OpenAI, Anthropic, DeepMind, xAI) | Entry-Level Research Engineer / Research Scientist | ~300 – 700 (total) | ~0.5 – 1.5% | $180K – $350K+ TC |
+| Private Equity (Blackstone, KKR, Apollo, Carlyle, TPG) | Entry-Level Analyst / Associate | ~300 – 600 (total) | ~1 – 2% | $150K – $250K TC (base + bonus + carry) |
+| Venture Capital (a16z, Sequoia, Benchmark, Accel, GV) | Entry-Level Analyst / Associate | ~100 – 250 (total) | ~0.5 – 1.5% | $100K – $160K (+ potential carry) |
+| FAANG / Big Tech (Google, Meta, Apple, Amazon, Microsoft, Netflix) | Entry-Level SDE (New Grad Software Engineer) | ~15,000 – 25,000 (total) | ~2 – 5% | $150K – $220K TC (base + stocks + bonus) |
+| MBB (McKinsey, BCG, Bain) | Entry-Level Business Analyst / Associate | ~3,000 – 5,000 (total) | ~1 – 3% | $110K – $190K TC |
+| Bulge Bracket Investment Banks (Goldman Sachs, JP Morgan, Morgan Stanley, BofA) | Entry-Level IB Analyst | ~3,000 – 5,000 (total) | ~2 – 4% | $130K – $200K TC (base + signing + bonus) |
+| Big Law / V10 (Cravath, Wachtell, Sullivan & Cromwell, Skadden, Davis Polk) | Junior Associate (Entry-Level for JD Graduates) | ~5,000 – 8,000 (across top 50 firms) | ~10 – 15% of T14 law grads; <1% of all JD holders | $225K+ base (Cravath scale + bonus) |
+| Big 4 Strategy (Deloitte S&, Monitor, Strategy&, KPMG Strategy) | Entry-Level Analyst / Consultant | ~3,000 – 5,000 | ~3 – 6% | $90K – $130K TC |
+| Medical Residency – Ultra-Competitive Specialties (Dermatology, Plastic Surgery, Neurosurgery, Orthopedics) | Resident Physician (Entry-Level for MD Graduates) | ~2,000 – 3,000 (combined across these specialties) | ~2 – 5% per specialty | $65K – $80K (but post-residency $400K – $700K+) |
+| NASA / US National Labs (NASA, Los Alamos, Sandia, LLNL, ORNL) | Entry-Level Engineer / Scientist | ~1,000 – 2,000 (combined) | ~3 – 8% | $70K – $110K |
+| US Intelligence Agencies (FBI, CIA, NSA, DIA) | Entry-Level Special Agent / Intelligence Analyst | ~2,000 – 4,000 (combined) | ~3 – 7% | $60K – $105K (+ federal benefits) |
+| US Foreign Service (State Department) | Foreign Service Officer (Entry-Level Diplomat) | ~500 – 800 | ~3 – 5% (~15,000–20,000 applicants) | $60K – $95K (+ housing, hardship allowances overseas) |
+| US Financial Regulators (Federal Reserve, SEC, FDIC, OCC) | Entry-Level Bank Examiner / Financial Analyst | ~500 – 1,000 (combined) | ~5 – 10% | $70K – $115K (+ federal benefits) |
+| US Commercial Airlines (United, Delta, American, Southwest) | Entry-Level Airline Pilot (First Officer) | ~3,000 – 5,000 | ~5 – 10% (of ATP-certified applicants) | $90K – $130K (increases steeply; captains earn $300K+) |
